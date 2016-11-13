@@ -28,6 +28,14 @@
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>To steal your photos</string>
+	<key>NSCameraUsageDescription</key>
+	<string>To steal your photos</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>To steal your voice</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Just let me do my thing</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
